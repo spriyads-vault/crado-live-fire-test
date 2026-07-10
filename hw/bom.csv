@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,CYW43439,Infineon,1,WiFi/BT combo,2412.0,intentional_radiator,point_to_multipoint,conducted,0.6
+U1,ESP32-C3,Espressif,1,WiFi/BLE SoC,2437.0,intentional_radiator,point_to_multipoint,conducted,0.8
