@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,DA14531,Renesas,1,BLE SoC,2426.0,intentional_radiator,point_to_multipoint,conducted,0.9
+U1,BME680,Bosch,1,gas sensor,2440.0,intentional_radiator,point_to_multipoint,conducted,
