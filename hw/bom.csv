@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,BME680,Bosch,1,gas sensor,2440.0,intentional_radiator,point_to_multipoint,conducted,
+U1,CC1101,Texas Instruments,1,sub-GHz radio,2440.0,intentional_radiator,point_to_multipoint,,0.7
