@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,NRF52840,Nordic Semiconductor,1,BLE SoC,2402.0,intentional_radiator,point_to_multipoint,conducted,1.1
+U1,MAX2837,Analog Devices,1,2.4GHz transceiver,2455.0,intentional_radiator,point_to_multipoint,conducted,1.8
