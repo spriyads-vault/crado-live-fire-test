@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,AT86RF233,Microchip,1,802.15.4 radio,2480.0,intentional_radiator,point_to_multipoint,conducted,0.4
+U1,DA14531,Renesas,1,BLE SoC,2426.0,intentional_radiator,point_to_multipoint,conducted,0.9
