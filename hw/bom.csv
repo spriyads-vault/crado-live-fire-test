@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,CC2500,Texas Instruments,1,2.4GHz RF,2460.0,intentional_radiator,point_to_multipoint,conducted,1.5
+U1,CYW43439,Infineon,1,WiFi/BT combo,2412.0,intentional_radiator,point_to_multipoint,conducted,0.6
