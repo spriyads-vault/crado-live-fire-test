@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,ESP32-C3,Espressif,1,WiFi/BLE SoC,2437.0,intentional_radiator,point_to_multipoint,conducted,0.8
+U1,AT86RF233,Microchip,1,802.15.4 radio,2480.0,intentional_radiator,point_to_multipoint,conducted,0.4
