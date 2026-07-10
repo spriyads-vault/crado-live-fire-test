@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,NRF24L01P,Nordic Semiconductor,1,2.4GHz transceiver,2440.0,intentional_radiator,point_to_multipoint,conducted,2.0
+U1,SX1276,Semtech,1,LoRa transceiver,2450.0,intentional_radiator,point_to_multipoint,conducted,1.3
