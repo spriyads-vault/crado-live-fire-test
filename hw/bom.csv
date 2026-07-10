@@ -1,2 +1,2 @@
 reference,mpn,manufacturer,qty,description,frequency_mhz,device_class,topology,measurement_method,measured_value
-U1,SX1276,Semtech,1,LoRa transceiver,2450.0,intentional_radiator,point_to_multipoint,conducted,1.3
+U1,CC2500,Texas Instruments,1,2.4GHz RF,2460.0,intentional_radiator,point_to_multipoint,conducted,1.5
